@@ -1,1 +1,1 @@
-# Social-media-analysis-using-mysql
+# Social Media Analysis
