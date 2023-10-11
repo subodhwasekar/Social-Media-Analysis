@@ -1,0 +1,34 @@
+﻿User_ID,Username,Platform,Post_Text,Likes,Comments,Hashtags,Media_Type,User_Engagement,User_Interactions,User_Activity
+101,@adventureSeeker,Instagram,"""Experiencing the thrill of a lifetime! #AdventureTime""",1500,250,#AdventureTime,Image,1870,15700,3 posts per week
+215,@foodieTraveler,Twitter,"""Indulging in local delicacies! #FoodieTravels""",850,70,#FoodieTravels,Text,970,8300,5 posts per week
+303,@wellnessJourney,Facebook,"""Finding peace and balance in nature!",680,80,#WellnessJourney,Image,800,6200,2 posts per week
+404,@fitnessFreak,Instagram,"""Pushing my limits in the gym!",1850,350,#FitnessGoals,Image,2380,32750,4 posts per week
+521,@foodExplorer,Twitter,"""Discovering unique flavors around the world!",950,80,#Foodies,Text,1090,9080,3 posts per week
+609,@wanderlustSoul,Facebook,"""Embracing the beauty of nature!",1200,110,#Wanderlust,Image,1360,10850,2 posts per week
+712,@techGeek,Twitter,"""Exploring the latest tech innovations!",550,40,#TechNews,Text,620,6850,1 post per day
+825,@petWhisperer,Instagram,"""Connecting with furry friends!",2200,320,#PetLove,Image,2720,21600,2 posts per week
+926,@bookwormLife,Facebook,"""Diving into the magical world of books!",780,60,#BookNerd,Image,880,9620,4 posts per week
+104,@foodPhotog,Instagram,"""Capturing delicious moments!",1100,120,#FoodPhotography,Image,1300,5700,3 posts per week
+209,@artisticSoul,Twitter,"""Expressing creativity through art!",650,90,#ArtisticJourney,Text,800,4600,2 posts per week
+305,@musicAddict,Spotify,"""Discovering hidden gems in music!",900,110,#MusicDiscovery,Text,1080,8880,1 post per day
+427,@petRescuer,Instagram,"""Giving furry friends a second chance!",1350,280,#AdoptDontShop,Image,1780,12900,3 posts per week
+598,@natureLover,Instagram,"""Finding serenity in the beauty of nature!",1220,180,#NatureLove,Image,1500,9100,2 posts per week
+943,@techEnthusiast,Twitter,"""Geeking out with the latest gadgets!",980,120,#TechLover,Text,1180,12750,3 posts per week
+158,@filmCritic,YouTube,"""Reviewing the latest blockbuster!",740,90,#MovieReviews,Video,890,10900,1 post per week
+405,@fashionIcon,Instagram,"""Setting trends with style!",1750,320,#Fashionista,Image,2290,28400,4 posts per week
+518,@gamerGeek,Twitch,"""Leveling up in the gaming world!",1120,180,#GamerLife,Video,1400,7700,2 posts per week
+625,@artLife,Instagram,"""Unleashing creativity on canvas!",900,120,#ArtisticSpirit,Image,1080,6980,2 posts per week
+711,@travelBug,Twitter,"""Exploring the world one city at a time!",720,80,#TravelDiaries,Text,850,9280,3 posts per week
+802,@fitnessGuru,Facebook,"""Empowering lives through fitness!",1500,250,#FitnessMotivation,Image,1870,16200,4 posts per week
+903,@petLover,Instagram,"""Spreading love, one paw at a time!",1080,190,#PetAdventures,Image,1350,9580,3 posts per week
+102,@techWhiz,Twitter,"""Decoding the secrets of technology!",890,100,#TechInnovation,Text,1050,14250,2 posts per week
+210,@bookLover,Goodreads,"""Escaping reality through the pages!",460,50,#BookWorm,Text,540,5040,1 post per day
+311,@foodJunkie,Instagram,"""Savoring every delectable bite!",970,80,#FoodHeaven,Image,1110,20050,4 posts per week
+402,@musicMaestro,Spotify,"""Harmonizing hearts with melodies!",810,90,#MusicMagic,Text,950,8740,3 posts per week
+522,@adrenalineJunkie,Instagram,"""Chasing thrills and adventure!",780,150,#AdrenalineRush,Image,1030,16300,4 posts per week
+618,@fashionista,Twitter,"""Dressing up is an art!",430,60,#FashionPassion,Text,590,9040,2 posts per week
+725,@globeTrotter,Facebook,"""Discovering the world's wonders! ?? #Wanderlust""",1150,140,#Wanderlust,Image,1360,13900,3 posts per week
+817,@foodExplorer,Instagram,"""Culinary delights from around the globe!",760,90,#FoodAdventures,Image,930,7130,2 posts per week
+940,@fitAndFab,Twitter,"""Determined to stay fit and fabulous!",980,120,#FitnessJourney,Text,1100,13200,3 posts per week
+108,@natureExplorer,Facebook,"""Immersed in nature's beauty!",680,70,#NatureWanderer,Image,790,8990,2 posts per week
+201,@petAdvocate,Instagram,"""Giving a voice to the voiceless!",1450,250,#AnimalRights,Image,1820,8400,1 post per day
